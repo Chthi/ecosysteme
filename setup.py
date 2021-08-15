@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 name = "ecosysteme"
 
-version = "1.0.0"
+version = "2.0.0"
 
 description = "A game of life inspired simulation where dears and wolves are wandering in grassland eating each other."
 
